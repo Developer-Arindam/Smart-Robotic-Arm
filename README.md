@@ -1,5 +1,6 @@
 # Smart-Robotic-Arm
 AI-based Smart  waste management tool using robotic arm.
+In this project we made a raspberry pi operated, servo controlled smart robotic arm which segregates medical wastes.
 
 The details of the project is documented in Documentation PDF
 
